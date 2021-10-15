@@ -1,4 +1,4 @@
-# gripoct21
+# GRIPOCTOBER21
 This task I created during my internship program with The Sparks Foundation
 ### Payment-Gateway-Integration
 
